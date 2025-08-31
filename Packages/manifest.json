@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.4",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.klak.testtools": "3.1.0",
+    "jp.keijiro.klutter-tools": "2.3.0",
+    "jp.keijiro.minibokeh": "1.2.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
