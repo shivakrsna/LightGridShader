@@ -5,9 +5,9 @@ void LightGrid_float(UnityTexture2D source, float2 uv, out float3 outColor)
     float rowsV = 90;        // total rows (RG and B rows)
 
     // Dot appearance
-    float dotRadius = 0.15;  // base radius of each LED dot
+    float dotRadius = 0.05;  // base radius of each LED dot
     float edgeSoft  = 0.18;  // edge feathering
-    float coreBoost = 8.45;  // extra brightness near the center
+    float coreBoost = 0.45;  // extra brightness near the center
 
     // Base grid in UV space (measured in RG dot slots horizontally)
     float2 gridSize = float2(gridU, rowsV);
